@@ -1,0 +1,19 @@
+{
+  "name": "webpack-run-once-plugin",
+  "version": "1.0.0",
+  "description": "Plugin to run other webpack plugins only once in development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadejo/webpack-run-once-plugin.git"
+  },
+  "author": "yadejo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yadejo/webpack-run-once-plugin/issues"
+  },
+  "homepage": "https://github.com/yadejo/webpack-run-once-plugin#readme"
+}
